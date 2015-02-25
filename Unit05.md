@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA003: Precalculus II"
+course_description: "An examination of the definitions of the basic trig functions, exploration of their properties, and the study of trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Final Exam** <span id="5"></span> 
 -   **Final Exam: The Saylor Foundation’s “MA003 Final Exam”**
     Link: The Saylor Foundation’s [“MA003 Final

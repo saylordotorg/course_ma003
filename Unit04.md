@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA003: Precalculus II"
+course_description: "An examination of the definitions of the basic trig functions, exploration of their properties, and the study of trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Further Applications of Trigonometry** <span id="4"></span> 
 *Imagine a boat that leaves port, travels some distance, turns some
 measurable amount, and then continues on. How would you measure the

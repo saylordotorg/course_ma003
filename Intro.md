@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA003: Precalculus II"
+course_description: "An examination of the definitions of the basic trig functions, exploration of their properties, and the study of trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA003: Precalculus II"
 -------------------------------------------
 

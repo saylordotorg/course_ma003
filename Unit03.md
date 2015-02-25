@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA003: Precalculus II"
+course_description: "An examination of the definitions of the basic trig functions, exploration of their properties, and the study of trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Trigonometric Equations and Identities** <span id="3"></span> 
 *The motion of a mass on a spring is a typical example of simple
 harmonic motion and can be described using sine waves and trig
