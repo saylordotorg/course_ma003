@@ -157,3 +157,4 @@ night; etc.
 - [Unit 3](https://legacy.saylor.org/ma003/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma003/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma003/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA003/MA003-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA003/MA003-FinalExam-Answers.html)
