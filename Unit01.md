@@ -77,7 +77,7 @@ Upon successful completion of this unit, the student will be able to:
     Functions*: “Chapter 5: Trigonometric Angles of Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 5: Trigonometric Angles of
-    Functions](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)
     (PDF)  
         
      Instructions: Read pages 297-301 of Chapter 5 to learn about
@@ -175,7 +175,7 @@ solutions are available at the end of each section of reading.*
     Functions*: “Chapter 5: Trigonometric Angles of Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 5: Trigonometric Angles of
-    Functions](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)
     (PDF)  
         
      Instructions: Read pages 307-317 of Chapter 5 to learn about angles
@@ -378,7 +378,7 @@ solutions for these are found at the end of the section of reading.*
     Colleges’ “Music Listening Technology” Worksheet**
     Link: Washington State Board for Community and Technical Colleges’
     [“Music Listening
-    Technology”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.2.5.pdf)
+    Technology”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.2.5.pdf)
     Worksheet (PDF)  
         
      Instructions: Changes in the technology for reproducing music
@@ -404,7 +404,7 @@ solutions for these are found at the end of the section of reading.*
     Colleges’ “Chapter 5 Quiz 1”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 5 Quiz
-    1”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.2.5-PART2.pdf)
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.2.5-PART2.pdf)
     (PDF)  
         
      Instructions: This assessment covers subunits 1.1.and 1.2. Complete
@@ -416,7 +416,7 @@ solutions for these are found at the end of the section of reading.*
     Functions*: “Chapter 5: Trigonometric Angles of Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 5: Trigonometric Angles of
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)
     (PDF)  
         
      Instructions: Read pages 321-330 of Chapter 5 to learn points on
@@ -581,7 +581,7 @@ Solutions to these problems appear at the end of the reading section.*
     Colleges’ “Chapter 5 Quiz 2”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 5 Quiz
-    2”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.3.5.pdf)
+    2”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.3.5.pdf)
     (PDF)  
       
      Instructions: This quiz uses the information from subunit 1.3 as
@@ -593,7 +593,7 @@ Solutions to these problems appear at the end of the reading section.*
     Functions*: “Chapter 5: Trigonometric Angles of Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 5: Trigonometric Angles of
-    Functions](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)
     (PDF)  
         
      Instructions: Read pages 333-338 of Chapter 5 to learn about the
@@ -736,7 +736,7 @@ problems are available at the end of the selected reading.*
     Colleges’ “Classwork- Identities” Worksheet**
     Link: Washington State Board for Community and Technical Colleges’
     [“Classwork-
-    Identities”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.4.3.pdf)
+    Identities”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.4.3.pdf)
     Worksheet (PDF)  
         
      Instructions: Complete this identity worksheet for additional
@@ -760,7 +760,7 @@ problems are available at the end of the selected reading.*
     Colleges’ “Chapter 5 Quiz 3”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 5 Quiz
-    3](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.4.3-PART2.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.4.3-PART2.pdf)
+    3](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.4.3-PART2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.4.3-PART2.pdf)
     (PDF)  
         
      Instructions: This quiz uses the information from subunit 1.4 as
@@ -772,7 +772,7 @@ problems are available at the end of the selected reading.*
     Functions*: “Chapter 5: Trigonometric Angles of Functions”**
     Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 5: Trigonometric Angles of
-    Functions](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.1.pdf)
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.1.pdf)
     (PDF)  
         
      Instructions: Read pages 343-347 of Chapter 5 to learn about the
@@ -905,7 +905,7 @@ selected reading.*
     Colleges’ “Chapter 5 Quiz 4”**
     Link: Washington State Board of Community and Technical Colleges’
     [“Chapter 5 Quiz
-    4](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.5.3.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/11/MA003-1.5.3.pdf)
+    4](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.5.3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-1.5.3.pdf)
     (PDF)  
         
      Instructions: This quiz uses the information from Subunit 1.5 as
@@ -932,7 +932,7 @@ selected reading.*
     Colleges’ “Chapter 5 Exam 1a”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 5 Exam
-    1a”](http://www.saylor.org/site/wp-content/uploads/2011/11/Unit-1-Assessment-A.pdf)
+    1a”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/Unit-1-Assessment-A.pdf)
     (PDF)  
         
      Instructions: Complete this assessment when you have completed all
