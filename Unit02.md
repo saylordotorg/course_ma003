@@ -72,7 +72,7 @@ Upon successful completion of this unit, the student will be able to:
     Functions*: “Chapter 6: Periodic Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: ** [“Chapter 6: Periodic
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)
     (PDF)  
         
      Instructions: The graphs of the sinusoidal functions have some
@@ -289,7 +289,7 @@ reading.*
     Colleges’ “Chapter 6 Quiz 5”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 6 Quiz
-    5](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.5.3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.5.3.pdf)
+    5](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.5.3.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.5.3.pdf)
     (PDF)  
         
      Instructions: This quiz uses the information from subunit 2.1 as
@@ -301,7 +301,7 @@ reading.*
     Functions*: “Chapter 6: Periodic Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: ** [“Chapter 6: Periodic
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)
     (PDF)  
         
      Instructions: Much like the sinusoidal functions, the remaining
@@ -358,7 +358,7 @@ It Now problems are available at the end of the selected reading.*
     Colleges’ “Chapter 6 Quiz 6”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 6 Quiz
-    6](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.2.4.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.2.4.pdf)
+    6](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.2.4.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.2.4.pdf)
     (PDF)  
         
      Instructions: Complete this assessment after completing the
@@ -369,7 +369,7 @@ It Now problems are available at the end of the selected reading.*
     Functions*: “Chapter 6: Periodic Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: ** [“Chapter 6: Periodic
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)
     (PDF)  
         
      Instructions: The functions give us some powerful tools for
@@ -476,7 +476,7 @@ sure to work the examples, as always. *
     Functions*: “Chapter 6: Periodic Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: ** [“Chapter 6: Periodic
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)
     (PDF)  
         
      Instructions: Now that you have an understanding of the inverse
@@ -587,7 +587,7 @@ any examples or problems. *
     Functions*: “Chapter 6: Periodic Functions”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: ** [“Chapter 6: Periodic
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.1.pdf)
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.1.pdf)
     (PDF)  
         
      Instructions: Trigonometry is very useful for modeling real world
@@ -690,7 +690,7 @@ appear at the end of the selected reading.*
     Colleges’ “Chapter 6 Quiz 7”**
     Link: Washington State Board of Community and Technical Colleges’
     [“Chapter 6 Quiz
-    7](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.5.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-2.5.2.pdf)
+    7](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.5.2.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-2.5.2.pdf)
     (PDF)  
         
      Instructions: This assessment covers subunits 2.3–2.5. Be sure to
@@ -716,7 +716,7 @@ appear at the end of the selected reading.*
     Colleges’ “Chapter 6 Exam”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 6
-    Exam](https://resources.saylor.org/archived/wp-content/uploads/2011/11/Unit-2-Assessment-A.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/Unit-2-Assessment-A.pdf)
+    Exam](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/Unit-2-Assessment-A.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/Unit-2-Assessment-A.pdf)
     (PDF)  
                                                    
      Instructions: Complete this assessment after you have completed all

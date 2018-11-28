@@ -80,7 +80,7 @@ id="4.1"></span> 
     Functions*: “Chapter 8: Further Applications of Trigonometry”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 8: Further Applications of
-    Trigonometry](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)
+    Trigonometry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)
     (PDF)  
         
      Instructions: Pages 451–466 introduce the idea of using
@@ -223,7 +223,7 @@ Work through the examples and the “Try It Now” problems. *
     Colleges’ “Chapter 8 Quiz 11”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 8 Quiz
-    11](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.2.pdf)
+    11](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.2.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.2.pdf)
     (PDF)  
         
      Instructions: Take this unit quiz after you have completed all of
@@ -234,7 +234,7 @@ Work through the examples and the “Try It Now” problems. *
     Functions*: “Chapter 8: Further Applications of Trigonometry”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 8: Further Applications of
-    Trigonometry](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)
+    Trigonometry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)
     (PDF)  
         
      Instructions: Read the selection from pages 467–475. The selection
@@ -398,7 +398,7 @@ graphing and solving polar equations.  *
     Colleges’ “Chapter 8: Quiz 12”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 8: Quiz
-    12](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.2.3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.2.3.pdf)
+    12](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.2.3.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.2.3.pdf)
     (PDF)  
         
      Instructions: Complete this assessment after you have worked
@@ -409,7 +409,7 @@ graphing and solving polar equations.  *
     Functions*: “Chapter 8: Further Applications of Trigonometry”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 8: Further Applications of
-    Trigonometry](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)
+    Trigonometry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)
     (PDF)  
         
      Instructions: Read pages 480–490 of Chapter 8 to learn how polar
@@ -597,7 +597,7 @@ end of each reading selection.*
     Colleges’ “Chapter 8: Quiz 13”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 8: Quiz
-    13](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.3.4.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.3.4.pdf)
+    13](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.3.4.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.3.4.pdf)
     (PDF)  
         
      Instructions: Complete this quiz after you have finished the
@@ -608,7 +608,7 @@ end of each reading selection.*
     Functions*: “Chapter 8: Further Applications of Trigonometry”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions:* [“Chapter 8: Further Applications of
-    Trigonometry](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)
+    Trigonometry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)
     (PDF)  
         
      Instructions: Vectors are geometric objects with both distance and
@@ -788,7 +788,7 @@ carefully and work through the problems and examples.  *
     Functions*: “Chapter 8: Further Applications of Trigonometry”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 8: Further Applications of
-    Trigonometry](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.1.pdf)
+    Trigonometry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.1.pdf)
     (PDF)  
         
      Instructions: Up until this point in the course, we have been
@@ -885,7 +885,7 @@ topic. *
     Colleges’ “Chapter 8: Quiz 14”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 8: Quiz
-    14](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.5.3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-4.5.3.pdf)
+    14](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.5.3.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-4.5.3.pdf)
     (PDF)  
         
      Instructions: This quiz covers both subunits 4.4 and 4.5; be sure
@@ -924,7 +924,7 @@ topic. *
     Colleges’ “Chapter 4 Exam”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 4
-    Exam](https://resources.saylor.org/archived/wp-content/uploads/2011/11/Unit-4-Assessment-A.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/Unit-4-Assessment-A.pdf)
+    Exam](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/Unit-4-Assessment-A.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/Unit-4-Assessment-A.pdf)
     (PDF)  
       
      Instructions: This assessment covers all of Unit 4; be sure to

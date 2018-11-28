@@ -56,7 +56,7 @@ id="3.1"></span> 
     Functions*: “Chapter 7: Trigonometric Equations and Identities”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 7: Trigonometric Equations and
-    Identities](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.pdf)
+    Identities](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.pdf)
     (PDF)  
         
      Instructions: Read pages 409–415 to learn some additional
@@ -147,7 +147,7 @@ selected reading.*
     Colleges’ “Chapter 7 Quiz 8”**
     Link: Washington State Board for Community and Technical Colleges’ 
     [“Chapter 7 Quiz
-    8](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.2.pdf)
+    8](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.2.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.2.pdf)
     (PDF)  
         
      Instructions: Complete this quiz after you have completed the
@@ -158,7 +158,7 @@ selected reading.*
     Functions*: “Chapter 7: Trigonometric Equations and Identities”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 7: Trigonometric Equations and
-    Identities](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.pdf)
+    Identities](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.pdf)
     (PDF)  
         
      Instructions: Add some additional identities to your problem
@@ -239,7 +239,7 @@ the end of each selected reading.*
     Colleges’ “Chapter 7 Quiz 9”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 7 Quiz
-    9](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.2.3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.2.3.pdf)
+    9](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.2.3.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.2.3.pdf)
     (PDF)  
         
      Instructions: Complete this quiz after working through the material
@@ -250,7 +250,7 @@ the end of each selected reading.*
     Functions*: “Chapter 7: Trigonometric Equations and Identities”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 7: Trigonometric Equations and
-    Identities](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.pdf)
+    Identities](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.pdf)
     (PDF)  
         
      Instructions: Read pages 431–441 to learn about simplifying trig
@@ -340,7 +340,7 @@ carefully.*
     Functions*: “Chapter 7: Trigonometric Equations and Identities”**
     Link: Lippman and Rasmussen’s *Precalculus: An Investigation of
     Functions*: [“Chapter 7: Trigonometric Equations and
-    Identities](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.1.pdf)
+    Identities](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.1.pdf)
     (PDF)  
         
      Instructions: Because real world phenomena are often modeled with
@@ -390,7 +390,7 @@ problems.  *
     Colleges’ “Chapter 7 Quiz 10”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 7 Quiz
-    10](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.4.3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/MA003-3.4.3.pdf)
+    10](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.4.3.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/MA003-3.4.3.pdf)
     (PDF)  
         
      Instructions: This assessment covers subunits 3.3 and 3.4; be sure
@@ -429,7 +429,7 @@ problems.  *
     Colleges’ “Chapter 7 Exam B”**
     Link: Washington State Board for Community and Technical Colleges’
     [“Chapter 7 Exam
-    B](https://resources.saylor.org/archived/wp-content/uploads/2011/11/Unit-3-Assessment-B.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/Unit-3-Assessment-B.pdf)
+    B](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/Unit-3-Assessment-B.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/Unit-3-Assessment-B.pdf)
     (PDF)  
       
      Instructions: This assessment covers all of Unit 3; be sure to
